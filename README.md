@@ -51,22 +51,22 @@ The following questions should be answered:
 ##### Data Cleaning
 
 1. I checked the information about our columns and data type.
-<li> 2. Null values check and delete in my case (Income: 24 values)
-<li> 3. Delete the both columns 'Z_Revenue', 'Z_CostContact', because they have equal values and are irrelevant for the analysis.
-<li> 4. Duplicates check
-<li> 5. Remove two values Absurd and YOLO in ‘Marital_Status’.
-<li> 6. Transform ‘Dt_Customer’ to datetime and create the new column ‘Yaer’ and “Age” for customers age. 
+2. Null values check and delete in my case (Income: 24 values)
+3. Delete the both columns 'Z_Revenue', 'Z_CostContact', because they have equal values and are irrelevant for the analysis.
+4. Duplicates check
+5. Remove two values Absurd and YOLO in ‘Marital_Status’.
+6. Transform ‘Dt_Customer’ to datetime and create the new column ‘Yaer’ and “Age” for customers age. 
   
 ##### Exploratory Data Analysis
-<li> 1. Statistics Summary
-<li> 2. Numerical data analysis
-<li> 3. Categorical data analysis
-<li> 4. EDA for the different relationships between different variables
-<li> 5. Features correlation (matrix)
+1. Statistics Summary
+2. Numerical data analysis
+3. Categorical data analysis
+4. EDA for the different relationships between different variables
+5. Features correlation (matrix)
 
-#### Tableau
+#### Visualization with Tableau
 
-Link to the tableau you can find here
+Link to the Tableau you can find here
 
 #### Dataset Used
 Customer Personality Analysis:
