@@ -14,15 +14,16 @@ The following questions should be answered:
 
 <li> ID: Customer's unique identifier
 <li> Year_Birth: Customer's birth year
-•	Education: Customer's education level
-•	Marital_Status: Customer's marital status
-•	Income: Customer's yearly household income
-•	Kidhome: Number of children in customer's household
-•	Teenhome: Number of teenagers in customer's household
-•	Dt_Customer: Date of customer's enrollment with the company
-•	Recency: Number of days since customer's last purchase
-•	Complain: 1 if the customer complained in the last 2 years, 0 otherwise
-Products
+<li> Education: Customer's education level
+<li> Marital_Status: Customer's marital status
+<li> Income: Customer's yearly household income
+<li> Kidhome: Number of children in customer's household
+<li> Teenhome: Number of teenagers in customer's household
+<li> Dt_Customer: Date of customer's enrollment with the company
+<li> Recency: Number of days since customer's last purchase
+<li> Complain: 1 if the customer complained in the last 2 years, 0 otherwise
+  
+##### Products
 •	MntWines: Amount spent on wine in last 2 years
 •	MntFruits: Amount spent on fruits in last 2 years
 •	MntMeatProducts: Amount spent on meat in last 2 years
