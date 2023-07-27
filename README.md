@@ -50,7 +50,7 @@ The following questions should be answered:
 
 ##### Data Cleaning
 
-<li> 1. I checked the information about our columns and data type.
+1. I checked the information about our columns and data type.
 <li> 2. Null values check and delete in my case (Income: 24 values)
 <li> 3. Delete the both columns 'Z_Revenue', 'Z_CostContact', because they have equal values and are irrelevant for the analysis.
 <li> 4. Duplicates check
