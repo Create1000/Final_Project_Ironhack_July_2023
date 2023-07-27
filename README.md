@@ -69,11 +69,12 @@ The following questions should be answered:
 Link to the tableau you can find here
 
 #### Dataset Used
-Customer Personality Analysis
+Customer Personality Analysis:
 https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 
 #### Tools and Technologies used
 Python: for Data Cleaning, for Exploratory Data Analysis
+
 Tableau: for Visualization
 
 
