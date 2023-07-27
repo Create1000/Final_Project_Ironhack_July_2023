@@ -1,6 +1,4 @@
-# Final_Project_Ironhack_July_2023
-
-### Customer Personality Analysis
+# Customer Personality Analysis
 
 #### Goal
 The goal of the project is to analyse the customers in order to make better strategic decisions regarding product type, marketing campaigns. We want to get a picture of who is our "best" or "most profitable" customer. 
