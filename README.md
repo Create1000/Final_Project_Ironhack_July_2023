@@ -10,7 +10,8 @@ The following questions should be answered:
 
 ##### We have the following values:
 ***
-People
+##### People
+
 •	ID: Customer's unique identifier
 •	Year_Birth: Customer's birth year
 •	Education: Customer's education level
