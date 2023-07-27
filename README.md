@@ -8,7 +8,7 @@ The following questions should be answered:
 2. Which customers are "valuable"?
 3. Which products do the existing and potential customers like?
 
-#####We have the following values:
+##### We have the following values:
 People
 •	ID: Customer's unique identifier
 •	Year_Birth: Customer's birth year
