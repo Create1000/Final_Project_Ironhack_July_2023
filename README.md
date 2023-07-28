@@ -71,7 +71,7 @@ https://public.tableau.com/app/profile/ivanna.pivtorak/viz/CustomerPersonalityAn
 Customer Personality Analysis:
 https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 
-#### Tools and Technologies used
+#### Tools and Technologies Used
 Python: for Data Cleaning, for Exploratory Data Analysis
 
 Tableau: for Visualization
