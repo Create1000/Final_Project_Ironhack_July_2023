@@ -64,7 +64,8 @@ The following questions should be answered:
 
 #### Visualization with Tableau
 
-Link to the Tableau you can find here
+Link to the Tableau you can find here:
+https://public.tableau.com/app/profile/ivanna.pivtorak/viz/CustomerPersonalityAnalysis_16904709888330/CustomerPersonalityAnalysis
 
 #### Dataset Used
 Customer Personality Analysis:
